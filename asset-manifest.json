@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-2019-11-14/static/css/main.ab1e4553.chunk.css",
+    "main.js": "/react-2019-11-14/static/js/main.bf7114cf.chunk.js",
+    "main.js.map": "/react-2019-11-14/static/js/main.bf7114cf.chunk.js.map",
+    "runtime-main.js": "/react-2019-11-14/static/js/runtime-main.61ec3c2e.js",
+    "runtime-main.js.map": "/react-2019-11-14/static/js/runtime-main.61ec3c2e.js.map",
+    "static/css/2.f4d50da8.chunk.css": "/react-2019-11-14/static/css/2.f4d50da8.chunk.css",
+    "static/js/2.95fd0b1d.chunk.js": "/react-2019-11-14/static/js/2.95fd0b1d.chunk.js",
+    "static/js/2.95fd0b1d.chunk.js.map": "/react-2019-11-14/static/js/2.95fd0b1d.chunk.js.map",
+    "index.html": "/react-2019-11-14/index.html",
+    "precache-manifest.58c7ed49624cab08d282c2fbdd6fc181.js": "/react-2019-11-14/precache-manifest.58c7ed49624cab08d282c2fbdd6fc181.js",
+    "service-worker.js": "/react-2019-11-14/service-worker.js",
+    "static/css/2.f4d50da8.chunk.css.map": "/react-2019-11-14/static/css/2.f4d50da8.chunk.css.map",
+    "static/css/main.ab1e4553.chunk.css.map": "/react-2019-11-14/static/css/main.ab1e4553.chunk.css.map",
+    "static/media/hero-banner.jpg": "/react-2019-11-14/static/media/hero-banner.f18dca13.jpg",
+    "static/media/logo.svg": "/react-2019-11-14/static/media/logo.cffb3093.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ec3c2e.js",
+    "static/css/2.f4d50da8.chunk.css",
+    "static/js/2.95fd0b1d.chunk.js",
+    "static/css/main.ab1e4553.chunk.css",
+    "static/js/main.bf7114cf.chunk.js"
+  ]
+}
